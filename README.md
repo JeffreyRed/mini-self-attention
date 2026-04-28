@@ -13,7 +13,7 @@
 
 | Step | Repository | What it builds |
 |------|-----------|----------------|
-| 1 | [mini-embedding](../mini-embedding) | Word vectors from scratch — Skip-gram Word2Vec |
+| 1 | [mini-embedding](https://github.com/JeffreyRed/mini-embedding) | Word vectors from scratch — Skip-gram Word2Vec |
 | **2** | **mini-self-attention** ← you are here | Multi-head self-attention encoder block |
 | 3 | mini-transformer _(coming)_ | Positional encoding + stacked encoder layers |
 | 4 | mini-gpt _(coming)_ | Causal decoder + next-token language model |
