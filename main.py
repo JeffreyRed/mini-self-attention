@@ -2,7 +2,7 @@
 main.py — End-to-end pipeline for mini-self-attention.
 
 Usage:
-    python main.py
+    python main.py 
 
 Pipeline:
     1. Load & tokenise corpus  (reused from mini-embedding)
