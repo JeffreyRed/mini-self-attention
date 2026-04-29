@@ -189,6 +189,11 @@ After running `main.py`, the `outputs/` folder will contain:
 | `loss_curve.png` | Training loss over epochs |
 | `attention_animation.gif` | How head 0's attention pattern evolved during training |
 
+![attention_heatmap](output/attention_heatmap.png)
+![all_sentences_attention](output/all_sentences_attention.png)
+![loss_curve](output/loss_curve.png)
+![attention_animation](output/attention_animation.gif)
+
 ---
 
 ## Deep dive — theory & code walkthrough
