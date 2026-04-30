@@ -15,7 +15,7 @@
 |------|-----------|----------------|
 | 1 | [mini-embedding](https://github.com/JeffreyRed/mini-embedding) | Word vectors from scratch — Skip-gram Word2Vec |
 | **2** | **mini-self-attention** ← you are here | Multi-head self-attention encoder block |
-| 3 | mini-transformer _(coming)_ | Positional encoding + stacked encoder layers |
+| 3 | [mini-transformer](https://github.com/JeffreyRed/mini-transformer) | Positional encoding + stacked encoder layers |
 | 4 | mini-gpt _(coming)_ | Causal decoder + next-token language model |
 
 > **Prerequisite:** run `mini-embedding` first and keep `outputs/embeddings.pt`.
