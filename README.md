@@ -17,6 +17,9 @@
 | **2** | **mini-self-attention** ← you are here | Multi-head self-attention encoder block |
 | 3 | [mini-transformer](https://github.com/JeffreyRed/mini-transformer) | Positional encoding + stacked encoder layers |
 | 4 | [mini-gpt](https://github.com/JeffreyRed/mini-gpt) | Causal decoder + next-token language model |
+| 5 | [mini-chat] (https://github.com/JeffreyRed/mini-chat) | Full LM on real text — overfitting, generation, evaluation |
+| 6 | [mini-cross-attention](https://github.com/JeffreyRed/mini-cross-attention) | Cross-attention module, source↔target alignment |
+| 7 | [mini-translator](https://github.com/JeffreyRed/mini-translator) | English→Spanish encoder-decoder with cross-attention |
 
 > **Prerequisite:** run `mini-embedding` first and keep `outputs/embeddings.pt`.
 > This project optionally warm-starts from those learned word vectors.
